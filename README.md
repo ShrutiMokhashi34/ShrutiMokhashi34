@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShrutiMokhashi34
 - 👀 I’m interested in data analytics and visualization
 - 🌱 I’m currently learning about various data analytics tools, such as Excel, SQL, Python, R Programming, Tableau
-- 📫 How to reach me ...shrutimokhashi851@gmail.com
+- 📫 How to reach me: shrutimokhashi851@gmail.com
 - 😄 Pronouns: She/Her
 
 <!---
