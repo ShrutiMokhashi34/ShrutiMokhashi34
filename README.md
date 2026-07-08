@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShrutiMokhashi34
-- 👀 I’m interested in data analytics and visualization
-- 🌱 I’m currently learning about various data analytics tools, such as Excel, SQL, Python, R Programming, Tableau
+- 👀 I’m interested in data analytics, data engineering, and visualization
+- 🌱 I’m currently learning about various data analytics tools, such as Excel, SQL, Python, R Programming, Tableau, Databricks, Azure, Airflow
 - 📫 How to reach me: shrutimokhashi851@gmail.com
 - 😄 Pronouns: She/Her
 
